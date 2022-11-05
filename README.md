@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 - Copa (Calendário) </h1>
+<h1 align="center"> :soccer: NLW #10 - Copa (Calendário) </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -31,8 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-0 Calendário da Copa é um projeto que mostra os jogos das seleções preferidas desse usuário da Copa de 2022.
-:soccer:
+O Calendário da Copa é um projeto que mostra os jogos das seleções preferidas desse usuário da Copa de 2022.
+:soccer: | :brazil: | :trophy:
 
 ## 🔖 Layout
 
