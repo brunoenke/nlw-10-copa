@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-0 Calendário da Copa é um projeto que mostra os jogos das seleções prefiridas desse usuário da Copa de 2022.
+0 Calendário da Copa é um projeto que mostra os jogos das seleções preferidas desse usuário da Copa de 2022.
+:soccer:
 
 ## 🔖 Layout
 
